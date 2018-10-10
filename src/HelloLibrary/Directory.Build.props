@@ -1,0 +1,10 @@
+<Project>
+    <PropertyGroup>
+        <PackageId>wk.HelloLibrary</PackageId>
+        <Version>0.1.0</Version>
+        <PackageTags>Hello</PackageTags>
+        <Description>Hello library</Description>
+        <authors>wk-j</authors>
+        <owners>wk-j</owners>
+    </PropertyGroup>
+</Project>
